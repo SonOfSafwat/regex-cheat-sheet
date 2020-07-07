@@ -39,7 +39,7 @@ using the {} curly braces notation
 - **\*** ⇒ _Zero or more._ It’s like the combination of + and ?.
 - **\\** ⇒ escape character
 - **[^]** ⇒ logical not or except
-- **|** ⇒ logical or
+- **\|** ⇒ logical or
 - **()** ⇒ group together
 - **^** ⇒ start of a string.
 - **\$** ⇒ end of the string.
